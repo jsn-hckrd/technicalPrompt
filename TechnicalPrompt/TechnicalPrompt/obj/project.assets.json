@@ -49,24 +49,27 @@
   },
   "packageFolders": {
     "C:\\Users\\Jason\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "M:\\technicalPrompt\\TechnicalPrompt\\TechnicalPrompt\\TechnicalPrompt.csproj",
+      "projectUniqueName": "C:\\Repositories\\technicalPrompt\\TechnicalPrompt\\TechnicalPrompt\\TechnicalPrompt.csproj",
       "projectName": "TechnicalPrompt",
-      "projectPath": "M:\\technicalPrompt\\TechnicalPrompt\\TechnicalPrompt\\TechnicalPrompt.csproj",
+      "projectPath": "C:\\Repositories\\technicalPrompt\\TechnicalPrompt\\TechnicalPrompt\\TechnicalPrompt.csproj",
       "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-      "outputPath": "M:\\technicalPrompt\\TechnicalPrompt\\TechnicalPrompt\\obj\\",
+      "outputPath": "C:\\Repositories\\technicalPrompt\\TechnicalPrompt\\TechnicalPrompt\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -77,7 +80,8 @@
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "M:\\EMA_Base\\core-app\\customNuget": {},
         "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.telerik.com/nuget": {}
+        "https://nuget.telerik.com/nuget": {},
+        "https://pkgs.dev.azure.com/mHealth-Insight/9179f1c0-9e56-4f40-adc8-78e8a3c98036/_packaging/insight-platform-v2-dev/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -115,7 +119,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
