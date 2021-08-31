@@ -240,8 +240,8 @@ namespace TechnicalPrompt
                 tdStr.Append(t.AssigneeLastName);
                 tdStr.Append(", ");
                 tdStr.Append(t.AssigneeFirstName);
-                tdStr.Append(" - ");
-                tdStr.Append(t.Description);
+                tdStr.Append(" - \"");
+                tdStr.Append(t.Description + "\"");
                 tdStr.Append(Environment.NewLine);
             }
 

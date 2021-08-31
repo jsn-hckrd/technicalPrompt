@@ -56,11 +56,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repositories\\technicalPrompt\\TechnicalPrompt\\TechnicalPrompt\\TechnicalPrompt.csproj",
+      "projectUniqueName": "M:\\technicalPrompt\\TechnicalPrompt\\TechnicalPrompt\\TechnicalPrompt.csproj",
       "projectName": "TechnicalPrompt",
-      "projectPath": "C:\\Repositories\\technicalPrompt\\TechnicalPrompt\\TechnicalPrompt\\TechnicalPrompt.csproj",
+      "projectPath": "M:\\technicalPrompt\\TechnicalPrompt\\TechnicalPrompt\\TechnicalPrompt.csproj",
       "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-      "outputPath": "C:\\Repositories\\technicalPrompt\\TechnicalPrompt\\TechnicalPrompt\\obj\\",
+      "outputPath": "M:\\technicalPrompt\\TechnicalPrompt\\TechnicalPrompt\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
